@@ -1,0 +1,10 @@
+# Ignore a pasta node_modules
+node_modules
+# Ignore o arquivo package-lock.json
+package-lock.json
+# Ignore o arquivo .env
+.env
+# Ignore o arquivo package-lock.json
+package-lock.json
+# Ignore o arquivo serviceAccountKey.json
+serviceAccountKey.json
